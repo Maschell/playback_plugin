@@ -5,7 +5,7 @@ WIP plugin to record and play back inputs from your gamepad.
 ## Installation
 (`[ENVIRONMENT]` is a placeholder for the actual environment name.)
 
-1. Copy the file `homebrew_on_menu.wps` into `sd:/wiiu/environments/[ENVIRONMENT]/plugins`.  
+1. Copy the file `input_playback.wps` into `sd:/wiiu/environments/[ENVIRONMENT]/plugins`.  
 2. Requires the [WiiUPluginLoaderBackend](https://github.com/wiiu-env/WiiUPluginLoaderBackend) in `sd:/wiiu/environments/[ENVIRONMENT]/modules`.
 3. Requires the [NotificationModule](https://github.com/wiiu-env/NotificationModule) in `sd:/wiiu/environments/[ENVIRONMENT]/modules`.
 
