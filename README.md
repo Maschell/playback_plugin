@@ -10,8 +10,12 @@ WIP plugin to record and play back inputs from your gamepad.
 3. Requires the [NotificationModule](https://github.com/wiiu-env/NotificationModule) in `sd:/wiiu/environments/[ENVIRONMENT]/modules`.
 
 ## Usage
+- Connect a Gamepad and Pro Controller
+- Press the **left stick** on the Pro Controller to start the recording. The Game will restart.
+- Press the **right stick** on the Pro Controller to stop the recording
+- Press **L** on the Pro Controller to playback the latest recording
 
-
+Recording are not persistent. Recording to include full Gamepad input data (including touch, gyro, communication errors etc.)
 
 ## Buildflags
 
